@@ -59,10 +59,8 @@ section#login > div#formulario{
         background-image: linear-gradient(to top, #49a09d,#5f2c82);
     }
     section#login{
-        min-height: 150px;
-        min-width: 150px;
-        width: 70vw;
-        height: 55vh;
+        width: 500px;
+        height: 250px;
 
         transition: width 0.3s, height 0.4s;
     transition-timing-function: ease;
